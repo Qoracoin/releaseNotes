@@ -1,0 +1,28 @@
+The **v0.19.0** release includes the following updates:
+- MapDB v 1.0.7
+- Name Payments
+- Automatic recreation of data folder in case wallet not closed properly.
+
+### [Qora-0.19.zip](https://github.com/Qoracoin/Qora/releases/download/0.19.0/Qora-0.19.zip)
+```MD5 : e0611488004f7c2ff95e8c4f8fda4b32```
+```SHA1 : a413742f98e5a05eba9e2f4992228749d17b3f5a```
+```SHA256 : 6ba4e37f9052b4bc4be6069729bd60829494f4812d8c199056e93f9b23ce28c5```
+[Virus Total - Qora-0.19.zip](https://www.virustotal.com/en/file/6ba4e37f9052b4bc4be6069729bd60829494f4812d8c199056e93f9b23ce28c5/analysis/1428360573/) 
+
+### [Qora-0.19.1.msi](https://github.com/Qoracoin/Qora/releases/download/0.19.0/Qora-v0.19.1.msi)
+```MD5 : a1cdca68b1c373c5a2495a995a07b1fc```
+```SHA1 : 32e443be4b285e5895c44197ebc83b017348e709```
+```SHA256 : 4f410b33d64b367cf6a3184be2cb87a384d1bdba7bcc5e6326ac3fbabd0083af```
+[Virus Total - Qora-0.19.1.msi](https://www.virustotal.com/en/file/4f410b33d64b367cf6a3184be2cb87a384d1bdba7bcc5e6326ac3fbabd0083af/analysis/1428438044/)
+
+### [Qora-v0.19.1.dmg](https://github.com/Qoracoin/Qora/releases/download/0.19.0/Qora-v0.19.1.dmg)
+```MD5 : 0ef78d7997289cb50aef26307a9e903b```
+```SHA1 : 8d4e9448ab427ebce5f5a47a31b4d1725d27da49```
+```SHA256 : 56ab705a1940a79f48ab161650ffbe67a212d620e07e59c3a6eef02b4ea0c218```
+[Virus Total - Qora-v0.19.1.dmg](https://www.virustotal.com/en/file/56ab705a1940a79f48ab161650ffbe67a212d620e07e59c3a6eef02b4ea0c218/analysis/1428460454/)
+
+### [Qora_0.19.1_all.deb](https://github.com/Qoracoin/Qora/releases/download/0.19.0/Qora_0.19.1_all.deb)
+```MD5 : c240b8e626ef91ecf3b9ebfb8241e68b```
+```SHA1 : 270f2b845c7558c36e93ecbabd35ed2c2d6bbb2e```
+```SHA256 : ba903ae3ddfc3f9af6cd7a9e8a386be073dde4710d91005987f4ad3da19224e0```
+[Virus Total - Qora_0.19.1_all.deb](https://www.virustotal.com/en/file/ba903ae3ddfc3f9af6cd7a9e8a386be073dde4710d91005987f4ad3da19224e0/analysis/1428670964/)

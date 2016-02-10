@@ -1,0 +1,33 @@
+The **v0.24.0** release includes the following updates:
+
+- Replaced external Ed25519 C libraries to pure Java code
+- Optimized Wallet Synchronization
+- Faster implementation of Base58
+- Added support for all languages based on UTF-8 for Qora web
+- Multilanguage support in blog for #hashtags and @mentions
+- Revision of Asset Exchange
+- Block Explorer optimization (boost is not needed)
+- Block Explorer transactions filter
+- API for messaging service
+- API for assets (limited)
+- Revision Control System Upgrade
+- Delete owned unconfirmed transactions that has not been propagated into the network
+- Improvement for logging system
+- Updated third-party libraries
+- Minor optimizations and bug fixes
+
+### [Qora_v0.24.0.zip](https://github.com/Qoracoin/Qora/releases/download/0.24.0/Qora_v0.24.0.zip)
+```MD5 : 61c79eea8518fd37040aacfc619343df```
+```SHA1 :  351737d1c0a9caf70b56d15aba5d49132ea29ad9```
+```SHA256 : 849309226719f39a58b8ab395062c557f91a6655f7165b4e012ec5f6532d7bf2```
+
+[Virus Total - Qora_v0.24.0.zip] 
+(https://www.virustotal.com/en/file/849309226719f39a58b8ab395062c557f91a6655f7165b4e012ec5f6532d7bf2/analysis/1448132171/)
+
+### [Qora-v0.24.0.exe](https://github.com/Qoracoin/Qora/releases/download/0.24.0/Qora-v0.24.0.exe)
+```MD5 : 7f926ad365bc0305af05e680a293e8a5```
+```SHA1 :  e8aef6215c0e9fffcf078153d4c0b17310cb9e49```
+```SHA256 : dcca63e9794346e6b92e53b5a9dc1570fae1c7acff4af2ee2f3b0c20a68e7c93```
+
+[Virus Total - Qora-v0.24.0.exe] 
+(https://www.virustotal.com/en/file/dcca63e9794346e6b92e53b5a9dc1570fae1c7acff4af2ee2f3b0c20a68e7c93/analysis/1448132716/)

@@ -1,0 +1,25 @@
+The **v0.21.0** release includes the following updates:
+- Reworked the messages section. 
+- Added encrypted messages. (AES algorithm with a 256 bit key)
+- Added settings window.
+- Added compression for name values. 
+- Added &lt;inj>{name}&lt;/inj> to insert the value of {name} in webpages.
+- Added new API commands: "GET addresses/publickey/{address}"  and "GET blocks/byheight/{height}".
+- ToolTip in status icon displays the percentage of blocks already downloaded.
+- ToolTip in forging icon shows the time to forge the next block.
+- Sound notifications for messages and payments.
+- Minor optimizations and bug fixes.
+
+### [Qora_v0.21.0.zip](https://github.com/Qoracoin/Qora/releases/download/0.21.0/Qora_v0.21.0.zip)
+```MD5 70a957c75b418e9d393db5c9e23f351f```
+```SHA1 d42cec06bce064f3cd8d9505fb8d08ecc2a8cb84```
+```SHA256 054894edfdb3945978ab6b812c4159a77601e93189aa5a381dd12d16e2b331d1```
+[Virus Total - Qora-v0.21.0.zip] 
+(https://www.virustotal.com/ru/file/054894edfdb3945978ab6b812c4159a77601e93189aa5a381dd12d16e2b331d1/analysis/1432847030/)
+
+### [Qora-v0.21.0.exe](https://github.com/Qoracoin/Qora/releases/download/0.21.0/Qora-v0.21.0.exe)
+```MD5 9f33f33a3f073d982da293bc10e0c2d8```
+```SHA1 76286d97c67a9f4ef4ba8d0d4f28d6344af9c801```
+```SHA256 bef2b5f3cec6220871f33b307122b5e4624aaf3d63ac4358acc2a80088b19e2f```
+[Virus Total - Qora-v0.21.0.exe] (https://www.virustotal.com/ru/file/bef2b5f3cec6220871f33b307122b5e4624aaf3d63ac4358acc2a80088b19e2f/analysis/1432846037/)
+

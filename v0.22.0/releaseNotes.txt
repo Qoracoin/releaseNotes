@@ -1,0 +1,42 @@
+The **v0.22.0** release includes the following updates:
+
+- Built-in blockExplorer with boost option.
+- Decentralized Social Network with profiles, custom blogs, likes, shares and follows.
+- Name Storage Service.
+- Search Engine for Qora's web.
+- Key/Value storage for name values.
+- API calls permission requests.
+- Added popular web libraries:
+	- angular ```("/index/libs/angular/angular.1.4.js")```
+	- bootstrap ```("/index/libs/bootstrap/3/js/bootstrap.min.js", "/index/libs/bootstrap/3/css/theme.css", ...)```
+	- jquery ```("/index/libs/jquery/jquery.2.js")```
+- Checkpoint for data-Folder.
+- Auto calculation fee for the transaction.
+- Fee confirmation for high fee amounts (bigger than 1000 qora).
+- The ability to unlock the wallet only for 2 minutes.
+- Tray Icon with notification for Payments.
+- New keys for settings.json:
+	- allowfeelessrequired ```(true / false)```
+	- blockexplorerboost ```(true / false)```
+	- timezone ```("UTC", "GMT+1", "Europe/Berlin")```
+	- timeformat ```("yyyy-MM-dd HH:mm:ss z" = "2015-07-24 06:31:47 UTC")```
+- Help command in console. ```("help", "help {command}")```.
+- Updated third-party libraries.
+- Change web port from 9083 to 9090.
+- Minor optimizations and bug fixes.
+
+### [Qora_v0.22.0.zip](https://github.com/Qoracoin/Qora/releases/download/0.22.0/Qora_v0.22.0.zip)
+```MD5 : ed6d571447c70f519a18d2db2e595e3f```
+```SHA1 : 8953ed72e4dee60b2a5258b2fb114f243e275ec6 ```
+```SHA256 : be582ece6c88e51ac1ff42e11dbba77e94aa6653d0aba23b489b49686521798e```
+
+[Virus Total - Qora_v0.22.0.zip] 
+(https://www.virustotal.com/en/file/be582ece6c88e51ac1ff42e11dbba77e94aa6653d0aba23b489b49686521798e/analysis/1437847089/)
+
+### [Qora-v0.22.0.exe](https://github.com/Qoracoin/Qora/releases/download/0.22.0/Qora-v0.22.0.exe)
+```MD5 : f55682b957c80cedcf65556cacc4800e```
+```SHA1 : b04487568ff38cc8b8966451464c7a3ded9eb689```
+```SHA256 : cc702c3a78f734ccfc07736b8cabe5646ad85cc89e84e3c8bd612d094e740e98```
+
+[Virus Total - Qora-v0.22.0.exe] 
+(https://www.virustotal.com/en/file/cc702c3a78f734ccfc07736b8cabe5646ad85cc89e84e3c8bd612d094e740e98/analysis/1437851634/)

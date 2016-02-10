@@ -1,0 +1,29 @@
+The **v0.20.0** release includes the following updates:
+- Automated Transactions
+- Web Server
+- Messaging Service
+- Forging Indicator
+- Command History in GUI console
+- Accounts sorted by balance
+- Minor optimizations and bug fixes 
+
+### [Qora_v0.20.0.zip](https://github.com/Qoracoin/Qora/releases/download/0.20.0/Qora_v0.20.0.zip)
+```MD5 : 2d0e33216594bffd03be6ea4ccb365e3```
+```SHA1 : e0363df69e2ae6e98603aecfdd6e27abbaa30442```
+```SHA256 : e5696339a72ef98003c502268a91a16cc5333b32fd6fb4c608b772b51063d3de```
+```SHA512 : 513c41fa0811cfe9c4caa24f3c50e9606b2818fa361663532f28298116c186819d1b0769f99ae5cd1811de6dbbd006a42b9eac775d5c3ceab1946acd28c87d3d```
+[Virus Total - Qora_v0.20.0.zip](https://www.virustotal.com/en/file/e5696339a72ef98003c502268a91a16cc5333b32fd6fb4c608b772b51063d3de/analysis/) 
+
+### [Qora-0.20.0.exe](https://github.com/Qoracoin/Qora/releases/download/0.20.0/Qora-v0.20.0.exe)
+```MD5 : 50142f3df81a805b313c354df63e4cc4```
+```SHA1 : cdd8fbc407ea4b66a810a12445ed2482fec4c62b```
+```SHA256 : eac2e8d082923a690f14e39e725b42fea1f5c7c929ab623dbc77bb18183f28a2```
+```SHA512 : fdff6cb2c04aab99ad4a9e45582eb3f6944ce6e1753744639a18036d2b607a69cc069273fc8500320507ffd8af882f5e8e24d057e9e2de378506b30b85a379d5 ```
+[Virus Total - Qora-0.20.0.exe](https://www.virustotal.com/en/file/eac2e8d082923a690f14e39e725b42fea1f5c7c929ab623dbc77bb18183f28a2/analysis/1431540886/)
+
+### [Qora_0.20.0.dmg](https://github.com/Qoracoin/Qora/releases/download/0.20.0/Qora_v0.20.0.dmg)
+```MD5 : a3bba43d397232a3dcdcbf58db649fe0```
+```SHA1 : 66509ca9f5d80baae84cf4f98724a14b3f05fda1```
+```SHA256 : 90499e807eab2e8fb70572b8aac517d86f378969d91abdfa9bdf2da963da8c98```
+```SHA512 : eae764c0046b52e671dde87f84f296e50e1c9a201e4ddc900fcd62484cb17fe3a28c4710681bfd2cd246e10c849792c93347d3e2feb51a94d32a65f84a85b442 ```
+[Virus Total - Qora_0.20.0.dmg](https://www.virustotal.com/en/file/90499e807eab2e8fb70572b8aac517d86f378969d91abdfa9bdf2da963da8c98/analysis/1432251235/)

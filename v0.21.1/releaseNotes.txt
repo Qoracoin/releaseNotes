@@ -1,0 +1,33 @@
+- Bug fixes.
+
+### [Qora_v0.21.1.zip](https://github.com/Qoracoin/Qora/releases/download/0.21.1/Qora_v0.21.1.zip)
+```MD5 : f79d18a1726db6427823b01e30ee9d06```
+```SHA1 : 43bf07f7e3f5f00b325a9899b3d6d62e43ea74b9```
+```SHA256 : cc335d85e9ee0897dd989455ab9e8ba87fcf14ba05b15589d24d83ce811e3ce6```
+
+[Virus Total - Qora_v0.21.1.zip] 
+(https://www.virustotal.com/en/file/cc335d85e9ee0897dd989455ab9e8ba87fcf14ba05b15589d24d83ce811e3ce6/analysis/1432911311/)
+
+### [Qora-v0.21.1.exe](https://github.com/Qoracoin/Qora/releases/download/0.21.1/Qora-v0.21.1.exe)
+```MD5 : c12bce82f9edf0b46ca8f8ed18f546ec```
+```SHA1 : 5ee8a54fe66e9fe6be3508f85bf60bb94255598a```
+```SHA256 : 06d2db633a312ace471318fed08d80f5b5d6e72bceeaf0da45d065ce6d9fc404```
+
+[Virus Total - Qora-v0.21.1.exe] 
+(https://www.virustotal.com/en/file/06d2db633a312ace471318fed08d80f5b5d6e72bceeaf0da45d065ce6d9fc404/analysis/1432916802/)
+
+### [Qora_v0.21.1.dmg](https://github.com/Qoracoin/Qora/releases/download/0.21.1/Qora_v0.21.1.dmg)
+```MD5 : 6b1a5c07087cd9a1274fa5c18e0a4678```
+```SHA1 : c3b9f4b458bd18961f7a1cb26f6d90b6a20d044f```
+```SHA256 : 88fab5dbdf3c4de5390e2739bf55f8dd09b1943e631564c75eb9d1712fb3f27b```
+
+[Virus Total - Qora_v0.21.1.dmg] 
+(https://www.virustotal.com/en/file/88fab5dbdf3c4de5390e2739bf55f8dd09b1943e631564c75eb9d1712fb3f27b/analysis/1432912516/)
+
+### [Qora_0.21.1_all.deb](https://github.com/Qoracoin/Qora/releases/download/0.21.1/Qora_0.21.1_all.deb)
+```MD5 : 6e57a412fe685976b4c43baf20762597```
+```SHA1 : fd4edc9017ca3a09c245963511726d10b2b2ccd0```
+```SHA256 : 3284b9eaa43b04ff4ba39c3c9eea082bf3c2794dc8b7a7a93c85618e78e7c55e```
+
+[Virus Total - Qora_0.21.1_all.deb] 
+(https://www.virustotal.com/en/file/3284b9eaa43b04ff4ba39c3c9eea082bf3c2794dc8b7a7a93c85618e78e7c55e/analysis/1432920511/)

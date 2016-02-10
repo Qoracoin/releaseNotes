@@ -1,0 +1,37 @@
+The **v0.23.0** release includes the following updates:
+
+- Automated Transactions Update
+- Transactions Map update
+- Storing Arbitrary files on blockchain
+- Multiple keys support
+- Automated Transactions Web Resources
+- Integration of Revision Control System
+- Namestorage History
+- Pebble injections for websites
+- Enhanced System Tray Icon
+- Light Wallet version
+- Batch transactions enabled (limited to 50)
+- Scaled fee increase for large sized transactions
+- Hashtags support on social network
+- Direct link to blog post
+- Deletion of posts
+- Websites Preview
+- Easy File Upload
+- Updated third-party libraries
+- Minor optimizations and bug fixes
+
+### [Qora_v0.23.0.zip](https://github.com/Qoracoin/Qora/releases/download/0.23.0/Qora_v0.23.0.zip)
+```MD5 : f4bbca3c221bfd176531252f37d20a9f```
+```SHA1 :  a7892bebf31944ca5a2cda987d9c22f8e820785b```
+```SHA256 : c9b9b07db319ce1ea6c3003f2647d76a8fad88c12a6ae052a7bb081ff3cc2fe0```
+
+[Virus Total - Qora_v0.23.0.zip] 
+(https://www.virustotal.com/en/file/c9b9b07db319ce1ea6c3003f2647d76a8fad88c12a6ae052a7bb081ff3cc2fe0/analysis/1444563317/)
+
+### [Qora-v0.23.0.exe](https://github.com/Qoracoin/Qora/releases/download/0.23.0/Qora-v0.23.0.exe)
+```MD5 : 44443ae874389f816602ad8fc36aa8e9```
+```SHA1 :  c6024e43be23b8c5d4dae87662b8589124729551```
+```SHA256 : 304b59de48e985db0afb85f873057e574413238d894f9f63ddaef0d85bcb7b4d```
+
+[Virus Total - Qora-v0.23.0.exe] 
+(https://www.virustotal.com/en/file/304b59de48e985db0afb85f873057e574413238d894f9f63ddaef0d85bcb7b4d/analysis/1444567199/)
