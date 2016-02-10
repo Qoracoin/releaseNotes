@@ -1,0 +1,22 @@
+The **v0.25.0** release includes the following updates:
+
+- Feature 1 
+- Feature 2
+- Feature 3
+
+
+### [Qora_v0.25.0.zip](https://github.com/Qoracoin/Qora/releases/download/0.25.0/Qora_v0.25.0.zip)
+```MD5 : 00000000```
+```SHA1 :  00000000```
+```SHA256 : 00000000```
+
+[Virus Total - Qora_v0.24.0.zip] 
+(https://www.virustotal.com/en/file/00000000/)
+
+### [Qora-v0.25.0.exe](https://github.com/Qoracoin/Qora/releases/download/0.25.0/Qora-v0.25.0.exe)
+```MD5 : 00000000```
+```SHA1 :  00000000```
+```SHA256 : 00000000```
+
+[Virus Total - Qora-v0.24.0.exe] 
+(https://www.virustotal.com/en/file/00000000/)
