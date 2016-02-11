@@ -1,9 +1,18 @@
 The **v0.25.0** release includes the following updates:
 
-- Feature 1 
-- Feature 2
-- Feature 3
-
+- February 21 happens HardFork. In this regard:
+  - To increase the security of Qora.
+  - Improved network portion. Wallet selects the best nodes. Permission to use the same IP.
+  - Allowed messages with zero amount. Now you can send the assets with message.
+  - Optional multiple payments in ArbitraryTransaction.
+- Improved section Peers. After HardFork, there will be a visible version of each of the connected node.
+- Added TestNet mode. command line key "-testnet".
+- Added commenting in the blogs.
+- Improved section Asset Exchange.
+- Added Asset vote.
+- Added to the menu item to unlock the wallet.
+- Display the synchronization status in tooltip in systray.
+- Minor optimizations and bug fixes.
 
 ### [Qora_v0.25.0.zip](https://github.com/Qoracoin/Qora/releases/download/0.25.0/Qora_v0.25.0.zip)
 ```MD5 : 00000000```
