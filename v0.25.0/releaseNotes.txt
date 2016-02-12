@@ -11,7 +11,12 @@ The **v0.25.0** release includes the following updates:
 - Improved section Asset Exchange.
 - Added Asset vote.
 - Added to the menu item to unlock the wallet.
-- Display the synchronization status in tooltip in systray.
+- Added visual editor for websites.
+- Display the synchronization status in tooltip in systray. Also added wallet synchronization status.
+- The dialogue prompt for password to unlock the wallet when performing actions in the Web.
+- Added Closing dialog.
+- Added hotkeys for all menu items.
+- Added new API commands.
 - Minor optimizations and bug fixes.
 
 ### [Qora_v0.25.0.zip](https://github.com/Qoracoin/Qora/releases/download/0.25.0/Qora_v0.25.0.zip)
