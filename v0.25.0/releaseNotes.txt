@@ -10,6 +10,7 @@ The **v0.25.0** release includes the following updates:
 - Added commenting in the blogs.
 - Improved section Asset Exchange.
 - Added Asset vote.
+- Auto update Asset Favorites for non-zero balances.
 - Added to the menu item to unlock the wallet.
 - Added visual editor for websites.
 - Display the synchronization status in tooltip in systray. Also added wallet synchronization status.
