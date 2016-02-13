@@ -7,6 +7,7 @@ The **v0.25.0** release includes the following updates:
   - Optional multiple payments in ArbitraryTransaction.
 - Improved section Peers. After HardFork, there will be a visible version of each of the connected node.
 - Added TestNet mode. command line key "-testnet".
+- If there is no connection, it will load the list of trusted peers from the Internet.
 - Added commenting in the blogs.
 - Improved section Asset Exchange.
 - Added Asset vote.
