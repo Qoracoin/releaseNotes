@@ -8,17 +8,17 @@ The **v0.25.0** release includes the following updates:
 - Improved section Peers. After HardFork, there will be a visible version of each of the connected node.
 - Added TestNet mode. command line key "-testnet".
 - If there is no connection, it will load the list of trusted peers from the Internet.
-- Added commenting in the blogs.
-- Improved section Asset Exchange.
-- Added Asset vote.
+- Added commenting in the blogs. There is a delete function.
+- Improved Asset Exchange section.
+- Added voting within assets.
 - Auto update Asset Favorites for non-zero balances.
 - Added to the menu item to unlock the wallet.
+- The dialogue prompt for password to unlock the wallet when performing actions in the Web.
 - Added visual editor for websites.
 - Display the synchronization status in tooltip in systray. Also added wallet synchronization status.
-- The dialogue prompt for password to unlock the wallet when performing actions in the Web.
+- Added new API commands.
 - Added Closing dialog.
 - Added hotkeys for all menu items.
-- Added new API commands.
 - Minor optimizations and bug fixes.
 
 ### [Qora_v0.25.0.zip](https://github.com/Qoracoin/Qora/releases/download/0.25.0/Qora_v0.25.0.zip)
